@@ -1,8 +1,21 @@
 {
-    "stocks": {
-        "coffee_break": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/coffee_break.json",
-        "heart": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/heart.json",
-        "snowman": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/snowman.json",
-        "suci_the_ghost": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/suci_the_ghost.json"
-    }
+    "stocks": [
+        {
+            "name": "coffee_break",
+            "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/coffee_break.json"
+        },
+        {
+            "name": "heart",
+            "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/heart.json"
+        },
+        {
+            "name": "snowman",
+            "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/snowman.json"
+        },
+        {
+            "name": "suci_the_ghost",
+            "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/suci_the_ghost.json"
+        }
+    ]
+    
 }
