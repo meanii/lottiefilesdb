@@ -1,6 +1,10 @@
 {
     "stocks": [
         {
+            "name": "suci_the_ghost",
+            "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/suci_the_ghost.json"
+        },
+        {
             "name": "coffee_break",
             "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/coffee_break.json"
         },
@@ -11,11 +15,6 @@
         {
             "name": "snowman",
             "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/snowman.json"
-        },
-        {
-            "name": "suci_the_ghost",
-            "url": "https://raw.githubusercontent.com/meanii/lottiefilesdb/main/files/stocks/suci_the_ghost.json"
         }
     ]
-    
 }
